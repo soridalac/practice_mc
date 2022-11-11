@@ -10,4 +10,3 @@ def duplicate(nums):
 print(duplicate([1, 2, 1]))
 print('Happy coding')
 
-
