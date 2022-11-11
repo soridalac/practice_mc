@@ -1,10 +1,10 @@
 def duplicate(nums):
-    hashset = set()
+    hashsets = set()
 
     for n in nums:
-        if n in hashset:
+        if n in hashsets:
             return True
-        hashset.add(n)
+        hashsets.add(n)
     return False
 
 print(duplicate([1, 2, 1]))
