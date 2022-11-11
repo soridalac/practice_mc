@@ -8,3 +8,4 @@ def duplicate(nums):
     return False
 
 print(duplicate([1, 2, 3, 1, 4, 5]))
+print('Hi')
