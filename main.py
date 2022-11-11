@@ -1,5 +1,5 @@
 def duplicate(nums):
-    hashsets = set()
+    hashset = set()
 
     for n in nums:
         if n in hashset:
