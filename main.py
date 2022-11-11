@@ -8,5 +8,6 @@ def duplicate(nums):
     return False
 
 print(duplicate([1, 2, 1]))
+print('Happy coding')
 
 
