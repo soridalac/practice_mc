@@ -1,5 +1,5 @@
 def duplicate(nums):
-    hashset = set()
+    hashsets = set()
 
     for n in nums:
         if n in hashset:
@@ -8,4 +8,5 @@ def duplicate(nums):
     return False
 
 print(duplicate([1, 2, 1]))
+print("Happy Friday!")
 
