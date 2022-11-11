@@ -7,4 +7,4 @@ def duplicate(nums):
         hashset.add(n)
     return False
 
-print(duplicate([1, 2, 3, 1]))
+print(duplicate([1, 2, 1]))
